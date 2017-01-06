@@ -1,0 +1,28 @@
+{
+  "name": "msc",
+  "description": "Milliseconds Converter",
+  "version": "0.1.0",
+  "keywords": [
+    "milliseconds",
+    "converter",
+    "node",
+    "rawn",
+    "javascript",
+    "module",
+    "time",
+    "synchronus",
+    "asynchronus"
+    ],
+  "author": {
+    "name": "Federico Vitale",
+    "email": "fedevitale99@gmail.com",
+    "url": "http://rawnly.com"
+  },
+  "git": {
+    "repo": "https://github.com/rawnly/msc"
+  },
+  "scripts": {
+    "test": "./test.js"
+  },
+  "license": "MIT"
+}
