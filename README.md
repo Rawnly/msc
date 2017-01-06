@@ -5,21 +5,21 @@
 Use *NPM*:
 
 ```bash
-  $ npm install ms-c 
+  $ npm install ms-c
 ```
 
 ## Usage
 
 **Sample**:
 ```js
-  require('msc');
+  require('ms-c');
   console.log( msc( [ms, unit], callback ) );
 ```
 
 **Example**:
 Synchronus:
 ```js
-  require('msc');
+  require('ms-c');
   var ms = d.getDate();
 
 
@@ -35,7 +35,7 @@ Synchronus:
 
 Asynchronus:
 ```js
-  require('msc');
+  require('ms-c');
   msc(1500, 'seconds', (err, data) => {
     if (err) throw err;
     console.log('Seconds: ' + data);
