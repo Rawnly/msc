@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-require('./msc');
+require('ms-c');
 
 // Asynchronus
 msc(1500, 'seconds', (err, data) => {

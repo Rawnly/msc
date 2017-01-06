@@ -1,11 +1,11 @@
 # MSC
-**NodeJS** milliseconds converter 
+**NodeJS** milliseconds converter
 
 ## Install
 Use *NPM*:
 
 ```bash
-  $ npm install msc --save # or -s
+  $ npm install ms-c 
 ```
 
 ## Usage

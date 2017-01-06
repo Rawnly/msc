@@ -1,6 +1,7 @@
 {
-  "name": "msc",
+  "name": "ms-c",
   "description": "Milliseconds Converter",
+  "main": "ms-c.js",
   "version": "0.1.0",
   "keywords": [
     "milliseconds",

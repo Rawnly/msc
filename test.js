@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-require('./msc');
+require('./ms-c');
 msc(129049, 'seconds', function (err, data) {
   if (err) {
     console.log(err);
